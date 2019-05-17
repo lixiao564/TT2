@@ -1,0 +1,11 @@
+{
+  "name": "TT2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lixiao564/TT2.git",
+  "author": "lixiao564 <564113123@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.5.8"
+  }
+}
